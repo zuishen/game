@@ -1,4 +1,4 @@
-frontend-nanodegree-arcade-game
+Arcade Game Clone
 ===============================
 
 Run
@@ -11,6 +11,5 @@ How to Play
 Destiation: the water pool.
 Objective: move the character to the water pool without any collisions with bugs.
 Operation: use key 'up', 'down', 'left' and 'right' to move the character.
-||||||| merged common ancestors
-=======
+
 
